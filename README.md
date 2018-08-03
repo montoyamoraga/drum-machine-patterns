@@ -278,7 +278,7 @@ Empty example
 
 ### Funk 1
 
-4/4, quarter note 150-192
+4/4, quarter note 80-112
 
 #### Measure A
 
@@ -333,7 +333,7 @@ Empty example
 
 ### Funk 2
 
-4/4, quarter note 150-192
+4/4, quarter note 80-112
 
 #### Measure A
 
@@ -388,7 +388,7 @@ Empty example
 
 ### Funk 3
 
-4/4, quarter note 150-192
+4/4, quarter note 100-130
 
 #### Measure A
 
@@ -443,7 +443,7 @@ Empty example
 
 ### Funk 4
 
-4/4, quarter note 150-192
+4/4, quarter note 78-112
 
 #### Measure A
 
@@ -498,7 +498,7 @@ Empty example
 
 ### Funk 5
 
-4/4, quarter note 150-192
+4/4, quarter note 78-112
 
 #### Measure A
 
@@ -553,7 +553,7 @@ Empty example
 
 ### Funk 6
 
-4/4, quarter note 150-192
+4/4, quarter note 86-116
 
 #### Measure A
 
@@ -608,7 +608,7 @@ Empty example
 
 ### Funk 7
 
-4/4, quarter note 150-192
+4/4, quarter note 82-94
 
 #### Measure A
 
@@ -663,7 +663,7 @@ Empty example
 
 ### Funk 8
 
-4/4, quarter note 150-192
+4/4, quarter note 96-134
 
 #### Measure A
 
@@ -718,7 +718,7 @@ Empty example
 
 ### Funk 9
 
-4/4, quarter note 150-192
+4/4, quarter note 94-118
 
 #### Measure A
 
@@ -773,7 +773,7 @@ Empty example
 
 ### Funk 10
 
-4/4, quarter note 150-192
+4/4, quarter note 94-118
 
 #### Measure A
 
@@ -828,7 +828,7 @@ Empty example
 
 ### Funk 11
 
-4/4, quarter note 150-192
+4/4, quarter note 82-124
 
 #### Measure A
 
@@ -883,7 +883,7 @@ Empty example
 
 ### Funk 12
 
-4/4, quarter note 150-192
+4/4, quarter note 82-96
 
 #### Measure A
 
@@ -938,7 +938,7 @@ Empty example
 
 ### Funk 13
 
-4/4, quarter note 150-192
+4/4, quarter note 98-118
 
 #### Measure A
 
@@ -993,7 +993,7 @@ Empty example
 
 ### Funk 14
 
-4/4, quarter note 150-192
+4/4, quarter note 78-112
 
 #### Measure A
 
@@ -1048,7 +1048,7 @@ Empty example
 
 ### Funk 15
 
-4/4, quarter note 150-192
+4/4, quarter note 105-132
 
 #### Measure A
 
@@ -1103,7 +1103,7 @@ Empty example
 
 ### Rhythm & Blues 1
 
-4/4, quarter note 150-192
+4/4, quarter note 90-112
 
 #### Measure A
 
@@ -1158,7 +1158,7 @@ Empty example
 
 ### Rhythm & Blues 2
 
-4/4, quarter note 150-192
+4/4, quarter note 86-108
 
 #### Measure A
 
@@ -1213,7 +1213,7 @@ Empty example
 
 ### Rhythm & Blues 3
 
-4/4, quarter note 150-192
+4/4, quarter note 90-112
 
 #### Measure A
 
@@ -1268,7 +1268,7 @@ Empty example
 
 ### Rhythm & Blues 4
 
-4/4, quarter note 150-192
+4/4, quarter note 78-90
 
 #### Measure A
 
@@ -1323,7 +1323,7 @@ Empty example
 
 ### Rhythm & Blues 5
 
-4/4, quarter note 150-192
+4/4, quarter note 82-108
 
 #### Measure A
 
@@ -1378,7 +1378,7 @@ Empty example
 
 ### Ballad 1
 
-4/4, quarter note 150-192
+4/4, quarter note 64-84
 
 #### Measure A
 
@@ -1433,7 +1433,7 @@ Empty example
 
 ### Ballad 2
 
-4/4, quarter note 150-192
+4/4, quarter note 64-84
 
 #### Measure A
 
@@ -1488,7 +1488,7 @@ Empty example
 
 ### Ballad 3
 
-4/4, quarter note 150-192
+4/4, quarter note 64-84
 
 #### Measure A
 
@@ -1543,7 +1543,7 @@ Empty example
 
 ### Ballad 4
 
-4/4, quarter note 150-192
+4/4, quarter note 60-80
 
 #### Measure A
 
@@ -1598,7 +1598,7 @@ Empty example
 
 ### Ballad 5
 
-4/4, quarter note 150-192
+4/4, quarter note 60-80
 
 #### Measure A
 
@@ -1653,7 +1653,7 @@ Empty example
 
 ### Pop 1
 
-4/4, quarter note 150-192
+4/4, quarter note 106-170
 
 #### Measure A
 
@@ -1708,7 +1708,7 @@ Empty example
 
 ### Pop 2
 
-4/4, quarter note 150-192
+4/4, quarter note 97-121
 
 #### Measure A
 
@@ -1763,7 +1763,7 @@ Empty example
 
 ### Pop 3
 
-4/4, quarter note 150-192
+4/4, quarter note 94-115
 
 #### Measure A
 
@@ -1818,7 +1818,7 @@ Empty example
 
 ### Pop 4
 
-4/4, quarter note 150-192
+4/4, quarter note 97-142
 
 #### Measure A
 
@@ -1873,7 +1873,7 @@ Empty example
 
 ### Pop 5
 
-4/4, quarter note 150-192
+4/4, quarter note 100-124
 
 #### Measure A
 
@@ -1928,7 +1928,7 @@ Empty example
 
 ### Reggae 1
 
-4/4, quarter note 150-192
+4/4, quarter note 78-94
 
 #### Measure A
 
@@ -1983,7 +1983,7 @@ Empty example
 
 ### Reggae 2
 
-4/4, quarter note 150-192
+4/4, quarter note 116-130
 
 #### Measure A
 
@@ -2038,7 +2038,7 @@ Empty example
 
 ### Reggae 3
 
-4/4, quarter note 150-192
+4/4, quarter note 110-142
 
 #### Measure A
 
@@ -2093,7 +2093,7 @@ Empty example
 
 ### Reggae 4
 
-4/4, quarter note 150-192
+4/4, quarter note 110-160
 
 #### Measure A
 
@@ -2148,7 +2148,7 @@ Empty example
 
 ### Reggae 5
 
-4/4, quarter note 150-192
+4/4, quarter note 82-94
 
 #### Measure A
 
@@ -2203,7 +2203,7 @@ Empty example
 
 ### Disco 1
 
-4/4, quarter note 150-192
+4/4, quarter note 100-120
 
 #### Measure A
 
@@ -2258,7 +2258,7 @@ Empty example
 
 ### Disco 2
 
-4/4, quarter note 150-192
+4/4, quarter note 100-136
 
 #### Measure A
 
@@ -2313,7 +2313,7 @@ Empty example
 
 ### Disco 3
 
-4/4, quarter note 150-192
+4/4, quarter note 110-136
 
 #### Measure A
 
@@ -2368,7 +2368,7 @@ Empty example
 
 ### Disco 4
 
-4/4, quarter note 150-192
+4/4, quarter note 98-124
 
 #### Measure A
 
@@ -2423,7 +2423,7 @@ Empty example
 
 ### Disco 5
 
-4/4, quarter note 150-192
+4/4, quarter note 98-130
 
 #### Measure A
 
@@ -2478,7 +2478,7 @@ Empty example
 
 ### Afro-Cuban 1
 
-4/4, quarter note 150-192
+4/4, quarter note 69-92
 
 #### Measure A
 
@@ -2533,7 +2533,7 @@ Empty example
 
 ### Afro-Cuban 2
 
-4/4, quarter note 150-192
+4/4, quarter note 105-135
 
 #### Measure A
 
@@ -2588,7 +2588,7 @@ Empty example
 
 ### Afro-Cuban 3
 
-4/4, quarter note 150-192
+4/4, quarter note 88-126
 
 #### Measure A
 
@@ -2643,7 +2643,7 @@ Empty example
 
 ### Afro-Cuban 4
 
-4/4, quarter note 150-192
+4/4, quarter note 66-98
 
 #### Measure A
 
@@ -2698,7 +2698,7 @@ Empty example
 
 ### Afro-Cuban 5
 
-4/4, quarter note 150-192
+4/4, quarter note 72-98
 
 #### Measure A
 
@@ -2753,7 +2753,7 @@ Empty example
 
 ### Blues 1
 
-4/4, quarter note 150-192
+12/8, quarter note 58-72
 
 #### Measure A
 
@@ -2808,7 +2808,7 @@ Empty example
 
 ### Blues 2
 
-4/4, quarter note 150-192
+12/8, quarter note 58-72
 
 #### Measure A
 
@@ -2863,7 +2863,7 @@ Empty example
 
 ### Swing 1
 
-4/4, quarter note 150-192
+12/8, quarter note 112-166
 
 #### Measure A
 
@@ -2918,7 +2918,7 @@ Empty example
 
 ### Swing 2
 
-4/4, quarter note 150-192
+12/8, quarter note 106-160
 
 #### Measure A
 
@@ -2973,7 +2973,7 @@ Empty example
 
 ### Swing 3
 
-4/4, quarter note 150-192
+12/8, quarter note 120-154
 
 #### Measure A
 
@@ -3028,7 +3028,7 @@ Empty example
 
 ### Shuffle 1
 
-4/4, quarter note 150-192
+12/8, quarter note 100-160
 
 #### Measure A
 
@@ -3083,7 +3083,7 @@ Empty example
 
 ### Shuffle 2
 
-4/4, quarter note 150-192
+12/8, quarter note 110-150
 
 #### Measure A
 
@@ -3138,7 +3138,7 @@ Empty example
 
 ### Samba 1
 
-4/4, quarter note 150-192
+4/4, quarter note 80-130
 
 #### Measure A
 
@@ -3193,7 +3193,7 @@ Empty example
 
 ### Samba 2
 
-4/4, quarter note 150-192
+4/4, quarter note 88-110
 
 #### Measure A
 
@@ -3248,7 +3248,7 @@ Empty example
 
 ### Samba 3
 
-4/4, quarter note 150-192
+4/4, quarter note 80-130
 
 #### Measure A
 
@@ -3303,7 +3303,7 @@ Empty example
 
 ### Bossa Nova 1
 
-4/4, quarter note 150-192
+4/4, quarter note 100-190
 
 #### Measure A
 
@@ -3358,7 +3358,7 @@ Empty example
 
 ### Bossa Nova 2
 
-4/4, quarter note 150-192
+4/4, quarter note 100-160
 
 #### Measure A
 
@@ -3413,7 +3413,7 @@ Empty example
 
 ### Cha-Cha
 
-4/4, quarter note 150-192
+4/4, quarter note 120-140
 
 #### Measure A
 
@@ -3468,7 +3468,7 @@ Empty example
 
 ### Twist 1
 
-4/4, quarter note 150-192
+4/4, quarter note 142-166
 
 #### Measure A
 
@@ -3498,7 +3498,7 @@ Empty example
 
 ### Twist 2
 
-4/4, quarter note 150-192
+4/4, quarter note 136-170
 
 #### Measure A
 
@@ -3528,7 +3528,7 @@ Empty example
 
 ### Ska
 
-4/4, quarter note 150-192
+4/4, quarter note 174
 
 #### Measure A
 
@@ -3560,7 +3560,7 @@ Empty example
 
 ### Endings
 
-4/4, quarter note 150-192
+4/4, quarter note
 
 #### Measure A
 
