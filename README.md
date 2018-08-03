@@ -1,15 +1,14 @@
 # drum-machine-patterns
-Based on the book 200 Drum machine patterns by René-Pierre Bardet
 
 ## About
 
 This is a project by [Aarón Montoya-Moraga](http://montoyamoraga.io/).
 
-Inspired by the book 200 Drum Machine Patterns by René-Pierre Bardet, which is a collection of 200 contemporary rhythm patterns to program into your drum machine.
+This project is inspired by the book *200 Drum Machine Patterns* by René-Pierre Bardet, a collection of 200 contemporary rhythm patterns to program into your drum machine.
 
-This is a library of MIDI files
+This project is a digital MIDI transcription of the original book.
 
-## Notation
+## Original notation
 
 The original book uses the following abbreviations:
 
@@ -92,22 +91,21 @@ Channel 10 is usually reserved for percussion instruments only.
 * 80 Mute Triangle
 * 81 Open Triangle
 
-## Conventions for this file
+## Conventions for this project
 
-Partially based on Korg Volca Beats
+This library follows the mapping of the instrument Roland TR-09:
 
-* 35 AC
-* 36 BD
-* 37 RS
-* 38 SD
-* 39 CP
-* 42 CH
-* 43 LT
-* 46 OH
-* 47 MT
-* 49 CY
-* 50 HT
-* 56 CB
+* 36 BD Bass drum
+* 37 RS Rim shot
+* 38 SD Snare drum
+* 39 CP Clap
+* 42 CH Closed hihat
+* 43 LT Low tom
+* 46 OH Open hihat
+* 47 MT Mid tom
+* 49 CY Crash cymbal
+* 50 HT High tom
+
 
 ## Patterns from the book 200 Drum machine patterns
 
